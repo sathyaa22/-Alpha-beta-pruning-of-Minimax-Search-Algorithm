@@ -34,7 +34,7 @@ When added to a simple minimax algorithm, it gives the same output but cuts off 
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/81575a16-26b2-46f1-a8ac-27c9ed0a0fe5)
 
 
-### PROGRAM:
+## PROGRAM:
 
 ```
 import time
@@ -202,13 +202,13 @@ if __name__ == "__main__":
     main()
 ```
 
-### OUTPUT:
+## OUTPUT:
 
 <img width="415" height="712" alt="Screenshot 2025-10-06 093928" src="https://github.com/user-attachments/assets/4df4cb24-743c-44ee-a76f-082bae8ea3d7" />
 
 <img width="428" height="687" alt="Screenshot 2025-10-06 093956" src="https://github.com/user-attachments/assets/ec7cc56e-b4c3-4c5d-a66a-c8be026ffcd4" />
 
 
-### RESULT:
+## RESULT:
 
 We have successfully implemented Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game.
